@@ -26,6 +26,18 @@ All financial data was programmatically collected using **Python** from the offi
 ## 📂 Preview
 ![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Image.png)
 
+## 📥 How to View This Project  
+
+There are two ways to explore the dashboard:  
+
+1. **Download the file**  
+   - The Power BI file (`IDM Comparison.pbix`) is available in this repository.  
+   - You can download it and open it with **Power BI Desktop** for full interactivity.  
+
+2. **Preview the visuals**  
+   - If you don’t have Power BI installed, you can still check the **preview images** included in the repo (e.g., `IDM_Image.png`).  
+   - These screenshots provide a quick overview of the dashboard design and insights.  
+
 ## 📑 Data Source
 - [TI 10-K](https://investor.ti.com/financial-information/sec-filings)
 - [ADI 10-K](https://investor.analog.com/financial-information/sec-filings)
