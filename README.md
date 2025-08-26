@@ -9,11 +9,11 @@ using official **SEC 10-K filings (2020–2024)**.
 ## 🔎 Features
 - Revenue, EPS, and R&D trend analysis
 - Segmentation by region and industry
-- Standardized Y-axis (20B) for cross-company comparison
+- Harmonize color palette to improve cross-company comparisons
 - Note: NXP changed regional segmentation in 2020, hence excluded from region chart
 
 ## 📂 Preview
-![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Image.png))
+![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Image.png)
 
 ## 📑 Data Source
 - [TI 10-K](https://investor.ti.com/financial-information/sec-filings)
