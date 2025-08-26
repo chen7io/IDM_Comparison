@@ -33,5 +33,6 @@ All financial data was programmatically collected using **Python** from the offi
 
 ## 🛠 Tools
 - Power BI
+- Python
 - DAX (calculated measures)
 - Data modeling & visualization
