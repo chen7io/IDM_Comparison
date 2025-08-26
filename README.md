@@ -24,7 +24,7 @@ All financial data was programmatically collected using **Python** from the offi
 - Note: NXP changed regional segmentation in 2020, hence excluded from region chart
 
 ## 📂 Preview
-![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Image.png)
+![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Comparison_Image.png)
 
 ## 📥 How to View This Project  
 
