@@ -13,7 +13,7 @@ using official **SEC 10-K filings (2020–2024)**.
 - Note: NXP changed regional segmentation in 2020, hence excluded from region chart
 
 ## 📂 Preview
-![Dashboard Screenshot](link-to-screenshot)
+![Dashboard Screenshot](https://github.com/chen7io/IDM_Comparison/blob/main/IDM_Image.png))
 
 ## 📑 Data Source
 - [TI 10-K](https://investor.ti.com/financial-information/sec-filings)
