@@ -1,5 +1,16 @@
 # IDM_Comparison
 Power BI Dashboard: Semiconductor IDM Comparison (TI / ADI / NXP) An interactive Power BI dashboard built with official SEC 10-K filings (2020–2024) to compare Texas Instruments, Analog Devices, and NXP.
+利用官方 SEC 10-K 財報 (2020–2024) 建立的 Power BI 互動式儀表板，對比 Texas Instruments、Analog Devices、NXP 三大半導體廠商的營收、每股盈餘（EPS）、研發費用及區域/產品線分布。
+
+專案特色：
+
+自動化清理與整合 SEC 原始財報資料，確保數據一致性與準確性。
+
+建立多維度視覺化（年度成長率、區域營收占比、產品組合分析），協助快速洞察各公司策略差異。
+
+儀表板具備互動功能，可依年份、公司、業務區域篩選，提升決策支援效率。
+
+目的：展現以資料分析工具（Power BI、DAX、Power Query）處理大型財報數據的能力，並以視覺化方式呈現產業競爭力比較，支持商業決策。
 
 # 📊 Semiconductor IDM Comparison Dashboard
 
